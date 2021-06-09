@@ -14,7 +14,7 @@ if (age >= 21) {
 var name = "Nathan Gee";
 console.log("My name is " + name);
 
-//my schoole
+//my school
 const school = "Eleven Fifty Academy (EFA)";
 console.log(`The school I'm attending right now is ${school}.`);
 
